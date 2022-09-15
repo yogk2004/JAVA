@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53d0e2ee-291f-4109-b61f-809376ee5888" name="Changes" comment="" />
+    <list default="true" id="b62d330f-67d8-4b62-a800-7793a7390b40" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2E2QXmQkWC7Y0hyYGdSIXbyGNzl" />
+  <component name="ProjectId" id="2EoBwT04G1lDoVzt2qyqN25cCUo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,18 +32,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Yogesh Kumar/Desktop/JAVA/Testing"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="53d0e2ee-291f-4109-b61f-809376ee5888" name="Changes" comment="" />
-      <created>1661791260760</created>
+      <changelist id="b62d330f-67d8-4b62-a800-7793a7390b40" name="Changes" comment="" />
+      <created>1663252302864</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1661791260760</updated>
+      <updated>1663252302864</updated>
     </task>
     <servers />
   </component>
