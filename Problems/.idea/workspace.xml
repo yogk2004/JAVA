@@ -29,10 +29,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/yogk2/OneDrive/Desktop/JAVA/JAVA/Problems"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Problem6">
     <configuration name="Problem5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem5" />
       <module name="Problems" />
@@ -40,8 +41,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem6" />
+      <module name="Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem6" />
         <item itemvalue="Application.Problem5" />
       </list>
     </recent_temporary>

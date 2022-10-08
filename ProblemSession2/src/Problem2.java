@@ -12,6 +12,6 @@ public class Problem2 {
 
     public static void main(String[] args) {
         Problem2 obj2 = new Problem2();
-        obj2.funcX(56495);
+        obj2.funcX(87945);
     }
 }
