@@ -32,5 +32,6 @@ public class BankPrototype2 {
         System.out.println(Data2.TotalBankBalance);//both show same value as it is static.
         System.out.println("---------------------");
 
+
     }
 }
