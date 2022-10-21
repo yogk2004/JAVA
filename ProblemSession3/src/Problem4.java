@@ -5,7 +5,7 @@ public class Problem4 {
 
        int LeftDays2=(LeftDays/400)%7;
        int LeftDays3=(LeftDays*7)/5;
-       int LeftDays4=(LeftDays3/5);
-
+       int LeftDays4=LeftDays*7
     }
 }
+w
