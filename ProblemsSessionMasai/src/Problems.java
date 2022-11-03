@@ -44,8 +44,56 @@ public class Problems {
     }
 
     public static void evenSumBelowN(int num6){
-        
+        int sum=0;
+        for(int i=1;i<=num6;i++){
+            if(i%2==0){
+                sum +=i;
+            }
+        }
+        System.out.println(sum);
     }
+
+    public static void oddSumbelowN(int num7){
+        int sum2=0;
+        for(int i=1;i<=num7;i++){
+            if(i%2!=0){
+                sum2+=i;
+            }
+        }
+        System.out.println(sum2);
+    }
+
+    public static void modeof10(int num8){
+        int i=num8%10;
+
+        for(int a=1;a<=i;a++){
+            System.out.println(a);
+        }
+    }
+    public static void divisibleByK(int num9,int k){
+        int sum=0;
+
+        for(int i=1;i<=num9;i++){
+            if(i%k==0){
+                sum+=i;
+            }
+        }
+        System.out.println(sum);
+    }
+
+    public static void masaiDivisors(int left,int right,int k){
+        int count=0;
+        for(int i=left;i<=right;i++){
+            if(i%k==0){
+                count+=1;
+            }
+        }
+        System.out.println(count);
+    }
+
+    public static void
+
+
 
     public static void main(String[] args) {
         printMasaiSchool(10);
@@ -59,6 +107,16 @@ public class Problems {
         moveTwoAhead(10);
         System.out.println("--------------------------------------------");
         moveTwoAhead2(10);
+        System.out.println("--------------------------------------------");
+        evenSumBelowN(10);
+        System.out.println("--------------------------------------------");
+        oddSumbelowN(10);
+        System.out.println("--------------------------------------------");
+        modeof10(17);
+        System.out.println("--------------------------------------------");
+        divisibleByK(17,3);
+        System.out.println("--------------------------------------------");
+        masaiDivisors(15,72,6);
         System.out.println("--------------------------------------------");
     }
 }
