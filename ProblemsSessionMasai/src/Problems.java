@@ -91,7 +91,49 @@ public class Problems {
         System.out.println(count);
     }
 
-    public static void
+    public static void findSumOfMultiple(int X,int Y,int K){
+        int sum=0;
+
+        for(int i=1;i<=K;i++){
+            if((X*i)%Y==0){
+                sum+=(X*i);
+            }
+        }
+        System.out.println(sum);
+    }
+    public static void fizzBuzz(int num10){
+        for(int i=1;i<=num10;i++) {
+            if (i%3==0 && i%5==0){
+                System.out.println("FizzBuzz");
+            } else if (i%3==0) {
+                System.out.println("Fizz");
+            } else if (i%5==0) {
+                System.out.println("Buzz");
+            } else {
+                System.out.println(i);
+            }
+        }
+    }
+    public static void divisibleByK2(int num11,int k){
+        for(int i=1;i<=num11;i++){
+            if(i%k==0){
+                System.out.println(i);
+            }
+        }
+    }
+    public static void identifyThePrimeNumbers(int num12){
+        if(num12==2){
+            System.out.println("Yes");
+        }else{
+            for(int i=2;i<=(num12/2);i++){
+                if(num12%i==0){
+                    System.out.println("No");
+                    return;
+                }
+            }
+            System.out.println("Yes");
+        }
+    }
 
 
 
@@ -117,6 +159,14 @@ public class Problems {
         divisibleByK(17,3);
         System.out.println("--------------------------------------------");
         masaiDivisors(15,72,6);
+        System.out.println("--------------------------------------------");
+        findSumOfMultiple(3,5,10);
+        System.out.println("--------------------------------------------");
+        fizzBuzz(28);
+        System.out.println("--------------------------------------------");
+        divisibleByK2(7,2);
+        System.out.println("--------------------------------------------");
+        identifyThePrimeNumbers(13);
         System.out.println("--------------------------------------------");
     }
 }
