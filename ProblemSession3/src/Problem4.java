@@ -8,4 +8,3 @@ public class Problem4 {
        int LeftDays4=LeftDays*7
     }
 }
-w
