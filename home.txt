@@ -1,0 +1,3 @@
+if max_profit<profit1:
+        max_profit=profit1
+        coordinate==i
