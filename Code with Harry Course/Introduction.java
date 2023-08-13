@@ -14,5 +14,7 @@ public class Introduction {
         //NOTE:
         //1. Ctrl+D : replicate the line in which cursor is already there.
         //2. Redundant means useless.
+        //3. The == operator compares references not values.
+        // Example: St= "Scissor" then System.out.println(St=="Scissor") will be false.
     }
 }
