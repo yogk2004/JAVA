@@ -9,6 +9,15 @@ public class Practice_Set_07_Problem_02_08 {
             System.out.println("");
         }
     }
+    static void pattern_printing2(int size){
+        if (size>0){
+            pattern_printing2(size - 1);
+            for (int i = 0; i < size; i++) {
+                System.out.print("*");
+            }
+            System.out.println("");
+        }
+    }
     public static void main(String[] args) {
         System.out.print("Enter the size of the pattern: ");
         Scanner sc = new Scanner(System.in);
@@ -16,6 +25,6 @@ public class Practice_Set_07_Problem_02_08 {
         System.out.println("Pattern printed by iterative approach: ");
         pattern_printing(size);
         System.out.println("Pattern printed by recursive approach: ");
-//        pattern_printing2(size);
+        pattern_printing2(size);
     }
 }
