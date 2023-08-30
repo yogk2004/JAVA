@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" filepath="$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstJavaExample/FirstJavaExample.iml" filepath="$PROJECT_DIR$/FirstJavaExample/FirstJavaExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IterativeStatement/IterativeStatement.iml" filepath="$PROJECT_DIR$/IterativeStatement/IterativeStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOperators/JavaOperators.iml" filepath="$PROJECT_DIR$/JavaOperators/JavaOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectCollaboration/ObjectCollaboration.iml" filepath="$PROJECT_DIR$/ObjectCollaboration/ObjectCollaboration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Questions/Practice Questions.iml" filepath="$PROJECT_DIR$/Practice Questions/Practice Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintingProblem/PrintingProblem.iml" filepath="$PROJECT_DIR$/PrintingProblem/PrintingProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemSession1/ProblemSession1.iml" filepath="$PROJECT_DIR$/ProblemSession1/ProblemSession1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemSession2/ProblemSession2.iml" filepath="$PROJECT_DIR$/ProblemSession2/ProblemSession2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemSession3/ProblemSession3.iml" filepath="$PROJECT_DIR$/ProblemSession3/ProblemSession3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemsSessionMasai/ProblemsSessionMasai.iml" filepath="$PROJECT_DIR$/ProblemsSessionMasai/ProblemsSessionMasai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticandNon-Static/StaticandNon-Static.iml" filepath="$PROJECT_DIR$/StaticandNon-Static/StaticandNon-Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransferStatement/TransferStatement.iml" filepath="$PROJECT_DIR$/TransferStatement/TransferStatement.iml" />
+    </modules>
+  </component>
+</project>
