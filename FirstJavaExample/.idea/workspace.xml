@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642867ca-36cb-46eb-8d28-479cb806cba8" name="Changes" comment="" />
+    <list default="true" id="642867ca-36cb-46eb-8d28-479cb806cba8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../A1_2022593/.idea/A1_2022593.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1_2022593/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A1_2022593/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1_2022593/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1_2022593/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A1_2022593/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstJavaExample/Introprinting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstJavaExample/Introprinting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstJavaExample/PrintingInSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstJavaExample/PrintingInSeries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstJavaExample/PrintingInSeries2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstJavaExample/PrintingInSeries2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/artifacts/Maven_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/Maven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/out/artifacts/Maven_jar/Maven.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +54,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2E5DMygNNnaSCmuUUVt2xSHZr7v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,7 +66,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/yogk2/OneDrive/Desktop/JAVA/Code with Harry Course"
   }
 }]]></component>
   <component name="RunManager">
